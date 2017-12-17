@@ -1,0 +1,12 @@
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\obj\Debug\InterfacesPracktTask.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\obj\Debug\InterfacesHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\InterfacesHomeWork\InterfacesHomeWork\obj\Debug\InterfacesHomeWork.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\obj\Debug\InterfacesHomeWork.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\obj\Debug\InterfacesHomeWork.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\bin\Debug\InterfacesHomeWork.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\InterfacesPracktTask\InterfacesHomeWork\obj\Debug\InterfacesPracktTask.csprojResolveAssemblyReference.cache
